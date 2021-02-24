@@ -4,7 +4,7 @@
 > 3 month solo project
  
 ## **|| Introduction ||**
-Plane-X-Ball is a Score based roll-A-Ball game with ball power-ups, collectibles, and obstacles. Roll on through different planets exploring unsafe terrain, collect gems to boost your time and score. Orginally was designed for an NSCC final term project for my level design course. This was the first game I've ever designed, based off from Unity's Roll-A-Ball tutorial, which the project had continued development for 3 months after the project was passed in. This game was never finished and ended development.
+Plane-X-Ball is a Score based, Roll-A-Ball game with power-ups, collectibles and obstacles. Roll on through different planets exploring unsafe terrain and collect gems to boost your time and score. Originally was designed for an NSCC final term project for the first year level design course. This was the first game I've ever designed, based off from Unity's Roll-A-Ball tutorial, which the project had continued development for 3 months after the project was passed in. This game was never finished and ended development.
 
 > _Game contains up to 3 full levels._ 
 
